@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrea Davies
+- 👋 Hi, I’m Andrea Davies.
 - 👀 I’m interested in entry level jobs in the tech sector, including technical writing.
 - 🌱 I have experience in technical translation for the langauge pair Japanese/English, and am currently studying computer science.
 - 📫 You can reach me at andreadavies228@gmail.com
